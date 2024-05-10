@@ -1,3 +1,3 @@
-#password-generator<br>
+#random-password-generator<br>
 author-Iqra jamil
  
